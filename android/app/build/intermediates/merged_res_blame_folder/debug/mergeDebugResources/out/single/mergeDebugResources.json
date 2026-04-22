@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.tictactoe.app-debug-59:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.tictactoe.app-main-61:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tictactoe.app-debug-59:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.tictactoe.app-main-61:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.tictactoe.app-debug-59:/drawable_ic_launcher.xml.flat",
+        "source": "com.tictactoe.app-main-61:/drawable/ic_launcher.xml"
+    }
+]

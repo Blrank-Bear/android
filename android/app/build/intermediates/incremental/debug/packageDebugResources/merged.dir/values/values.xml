@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0A0E1A</color>
+    <color name="navy_bg">#0A0E1A</color>
+    <string name="app_name">TicTacToe</string>
+    <style name="Theme.TicTacToe" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/navy_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
